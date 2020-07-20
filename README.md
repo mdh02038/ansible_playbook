@@ -1,5 +1,7 @@
 # Ansible Playbook Docker Image
 
+Mixed architecture ansible image based on: https://github.com/philm/ansible_playbook
+
 Executes ansible-playbook command against an externally mounted set of Ansible playbooks
 
 ```
